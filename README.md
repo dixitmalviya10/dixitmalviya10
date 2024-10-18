@@ -16,28 +16,29 @@ Here are some ideas to get you started:
 -->
 
 
-## 👋 Hi, I'm Dixit Lohar
-I’m a passionate Frontend Developer with a focus on crafting engaging, user-friendly web applications. My expertise lies in modern frontend technologies and libraries, ensuring clean and scalable code that delivers seamless experiences across devices.
+# 👋 Hi, I'm Dixit Lohar
 
-🌟 Skills & Tools
-Languages: HTML5, CSS3, JavaScript (ES6+), TypeScript.
-Libraries & Frameworks: React.js, Next.js, Redux, PrimeReact, Material UI, Rsuite.
-Styling: Tailwind CSS, Bootstrap, SASS, PrimeFlex.
-Version Control: Git, GitHub, GitLab.
-Additional Tools: VSCode, Figma, Chrome DevTools.
+I’m a passionate **Frontend Developer** with a focus on crafting engaging, user-friendly web applications. My expertise lies in modern frontend technologies and libraries, ensuring clean and scalable code that delivers seamless experiences across devices.
 
-🔧 What I Do
-Build responsive and accessible web applications.
-Collaborate with teams to create smooth user experiences.
-Integrate APIs and optimize performance for modern browsers.
-Implement design systems and reusable components.
-Stay up to date with the latest in web development.
+### 🌟 Skills & Tools
+- **Languages:** HTML5, CSS3, JavaScript (ES6+), TypeScript
+- **Libraries & Frameworks:** React.js, Next.js, Redux, PrimeReact, Material UI, Rsuite
+- **Styling:** Tailwind CSS, Bootstrap, SASS, PrimeFlex
+- **Version Control & CI/CD:** Git, GitHub, GitLab
+- **Additional Tools:** VSCode, Figma, Chrome DevTools
 
-💼 Current Role
-ReactJS Developer at Thinktanker, contributing to various innovative projects in the frontend ecosystem.
+### 🔧 What I Do
+- Build responsive and accessible web applications
+- Collaborate with teams to create smooth user experiences
+- Integrate APIs and optimize performance for modern browsers
+- Implement design systems and reusable components
+- Stay up to date with the latest in web development
 
-📈 Projects & Contributions
-Check out some of my featured repositories below, showcasing my work in frontend technologies. From custom-built components to full-stack applications, I love sharing code and collaborating with the community.
+### 💼 Current Role
+- **ReactJS Developer** at Thinktanker, contributing to various innovative projects in the frontend ecosystem.
 
-🚀 Let's Connect!
-Feel free to reach out via LinkedIn or explore my portfolio. I'm always open to exciting opportunities and collaboration.
+### 📈 Projects & Contributions
+Check out some of my featured repositories below, showcasing my work in **React** and other frontend technologies. From custom-built components to full-stack applications, I love sharing code and collaborating with the community.
+
+### 🚀 Let's Connect!
+Feel free to reach out via [LinkedIn](#) or explore my portfolio. I'm always open to exciting opportunities and collaboration.
