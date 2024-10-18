@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-## 👋 Hi, I'm Dixit malviya
+## 👋 Hi, I'm Dixit Lohar
 I’m a passionate Frontend Developer with a focus on crafting engaging, user-friendly web applications. My expertise lies in modern frontend technologies and libraries, ensuring clean and scalable code that delivers seamless experiences across devices.
 
 🌟 Skills & Tools
