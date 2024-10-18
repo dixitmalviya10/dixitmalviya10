@@ -24,7 +24,7 @@ I’m a passionate **Frontend Developer** with a focus on crafting engaging, use
 - **Languages:** HTML5, CSS3, JavaScript (ES6+), TypeScript
 - **Libraries & Frameworks:** React.js, Next.js, Redux, PrimeReact, Material UI, Rsuite
 - **Styling:** Tailwind CSS, Bootstrap, SASS, PrimeFlex
-- **Version Control & CI/CD:** Git, GitHub, GitLab
+- **Version Control:** Git, GitHub, GitLab
 - **Additional Tools:** VSCode, Figma, Chrome DevTools
 
 ### 🔧 What I Do
