@@ -41,4 +41,4 @@ I’m a passionate **Frontend Developer** with a focus on crafting engaging, use
 Check out some of my featured repositories below, showcasing my work in **React** and other frontend technologies. From custom-built components to full-stack applications, I love sharing code and collaborating with the community.
 
 ### 🚀 Let's Connect!
-Feel free to reach out via [LinkedIn](#) or explore my portfolio. I'm always open to exciting opportunities and collaboration.
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/dixit-lohar10/) or explore my portfolio. I'm always open to exciting opportunities and collaboration.
